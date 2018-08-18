@@ -4,7 +4,7 @@ The sample aims to:
 
 * Provide a basic [Model-View-ViewModel](https://en.wikipedia.org/wiki/Model–view–viewmodel) (MVVM) and Google Architecture Component using Live Data With Kotlin.
 ##
-![screenshot](20180818_170232.gif)
+![screenshot](20180818_190627.gif)
 
 ### What you need
 

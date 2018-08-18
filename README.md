@@ -21,7 +21,7 @@ The Login-MVVM sample uses the following dependencies:
 
 ### Designing the app
 
-* ui - used to user interface activity
+* ui - used to reprent user interface activity
 * viewmodel - Used to manage logic actions
 * model - used to represnt user model
 * network - Used to manage network layer
